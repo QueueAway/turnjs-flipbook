@@ -1,0 +1,28 @@
+
+body {
+  font-family: Arial, sans-serif;
+  background: #f5f5f5;
+  margin: 0;
+  padding: 20px;
+}
+.container {
+  max-width: 900px;
+  margin: auto;
+  text-align: center;
+}
+#flipbook {
+  width: 800px;
+  height: 520px;
+  margin: 20px auto;
+}
+.page img {
+  width: 100%;
+}
+.nav-buttons {
+  margin-top: 20px;
+}
+button {
+  padding: 10px 20px;
+  font-size: 16px;
+  margin: 0 10px;
+}
